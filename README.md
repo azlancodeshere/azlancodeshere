@@ -1,4 +1,4 @@
-# Azlan
+# Abdul Yasin
 
 ### Full Stack Developer · Backend Focused · Builder
 
@@ -39,14 +39,6 @@ const azlan = {
 
 ![Git](https://img.shields.io/badge/Git-30302e?style=for-the-badge&logo=git&logoColor=F05032&labelColor=1a1a18) ![GitHub](https://img.shields.io/badge/GitHub-30302e?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a18) ![Postman](https://img.shields.io/badge/Postman-30302e?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=1a1a18) ![Prettier](https://img.shields.io/badge/Prettier-30302e?style=for-the-badge&logo=prettier&logoColor=F7B93E&labelColor=1a1a18) ![Vercel](https://img.shields.io/badge/Vercel-30302e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a18) ![Render](https://img.shields.io/badge/Render-30302e?style=for-the-badge&logo=render&logoColor=white&labelColor=1a1a18)
 
----
-
-## Featured Projects
-
-| Project | Description | Tech |
-| ------- | ----------- | ---- |
-| [Uber-full-stack](https://github.com/azlancodeshere/Uber-full-stack) | Uber-style full-stack app with separate Backend and frontend | JavaScript, Node.js, Express, React |
-| [azlanbackendcodes](https://github.com/azlancodeshere/azlanbackendcodes) | Node.js backend practice app | JavaScript, Node.js |
 
 ---
 
