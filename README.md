@@ -9,7 +9,7 @@
 ## About Me
 
 ```js
-const azlan = {
+const Yasin = {
   role     : "Full Stack Developer",
   location : "India 🇮🇳",
   stack    : ["React", "Next.js", "Node.js", "Express", "MongoDB", "TypeScript"],
